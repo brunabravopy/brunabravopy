@@ -11,7 +11,7 @@
 
 <!-- tagline -->
 <p align="left">
-  M.Sc. Data Science – HEC Montréal<br/>
+  M.Sc. Data Science and Business Analytics – HEC Montréal<br/>
   B.Sc. Industrial Engineering – UCN Chile<br/>
   Operations Research, Heuristic Algorithms, Machine Learning Tools
 </p>
