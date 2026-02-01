@@ -1,6 +1,3 @@
-<!--
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
--->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -18,11 +15,6 @@
   M.Sc. Data Science and Business Analytics – HEC Montréal<br/>
   B.Sc. Industrial Engineering – UCN Chile<br/>
 </p>
-<!--
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
--->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -40,47 +32,6 @@
 - 📁 LinkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
 <!--Intro end-->
 
-<!--- stats & Trophy (start) 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
--->
-<!--
-  <!-- Change username= below if your GitHub handle is different -
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunabravopy&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title=" Get streak stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brunabravopy&theme=dark&hide_border=false" />
-
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brunabravopy&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
-
-<!--- trophy (start) 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=brunabravopy&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
-  </a>
-</div>
-<!--- trophy (end) 
-</p>
-<!--- stats & Trophy (end)
-
-<!--h2 without bottom border
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
- --> 
- -->
- -->
 <!-- tech stack icons (edit freely) -->
 <p align="center">
   <a href="https://skillicons.dev">
