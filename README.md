@@ -64,9 +64,9 @@
 <h3>Optimization, Machine Learning & Statistics</h3>
 <ul>
   <li>Supervised, Unsupervised Learning, Reinforcement Learning</li>
-  <li>Linear Programming, Cuadratic Programming, Mixed Integer Programming(MIP)</li>
-  <li>Metaheuristics, Variable Neighborhood Search(VNS)</li>
-  <li>Generalized Linear Models(GLMs)</li>
+  <li>Linear Programming, Cuadratic Programming, Mixed Integer Programming (MIP)</li>
+  <li>Metaheuristics, Variable Neighborhood Search (VNS)</li>
+  <li>Generalized Linear Models (GLMs)</li>
   <li>Linear Regression, Logistic Regression</li>
   <li>Model Performance Evaluation, Debugging</li>
 </ul>
