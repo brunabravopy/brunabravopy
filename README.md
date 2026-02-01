@@ -1,7 +1,6 @@
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 -->
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -19,7 +18,6 @@
   M.Sc. Data Science and Business Analytics – HEC Montréal<br/>
   B.Sc. Industrial Engineering – UCN Chile<br/>
 </p>
-
 <!--
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
@@ -29,18 +27,16 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion and discussion are part of building useful things</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Optimization / Metaheuristics (VNS), VRP, Mining analytics, Python + SQL + Azure**
-- 🌱 I’m currently learning **scalable data pipelines, model deployment basics, and better experiment tracking**
-- ☁️ Cloud interest: **Azure (SQL/BI) and AWS fundamentals**
-- 📝 I write notes/articles (optional): **[your blog link here]**
-- 💬 Ask me about **Operations Research, VRP, Optimization, Python, SQL, Energy/Macro data mapping**
-- 📫 Reach me: **diego.bravo@hec.ca**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
+- 🔭 I’ve worked with **linear programming, metaheuristics such as variable neighborhood search (VNS), Location, Scheduling, Routing Problems, Python/Gurobi**
+- 🌱 I’m currently learning **scalable data pipelines and model deployment**
+- ☁️ Interest: **Azure (SQL/BI) and AWS fundamentals**
+- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved in its operations. Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
+- 📫 Don't be shy, I'd enjoy to talk: e-mail: **diego.bravo@hec.ca** | linkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
