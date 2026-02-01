@@ -59,3 +59,15 @@
     <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,postgres,sqlite,azure,linux,bash,git,github,vscode,latex,matlab&perline=14" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,kubernetes,githubactions,terraform,nginx,redis,postgres,azure,linux&perline=14" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,postgres,azure,linux,vscode&perline=14" />
+  </a>
+</p>
+
