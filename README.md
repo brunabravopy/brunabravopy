@@ -32,11 +32,12 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’ve worked with **linear programming, metaheuristics such as variable neighborhood search (VNS), Location, Scheduling, Routing Problems, Python/Gurobi**
-- 🌱 I’m currently learning **scalable data pipelines and model deployment**
-- ☁️ Interest: **Azure (SQL/BI) and AWS fundamentals**
-- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved in its operations. Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
-- 📫 Don't be shy, I'd enjoy to talk: e-mail: **diego.bravo@hec.ca** | linkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
+- 🔭 I’ve worked with **linear programming, metaheuristics, location, scheduling, and routing problems, Python/Gurobi**
+- 🌱 I’m currently learning scalable data pipelines and model deployment.
+- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved in its operations.
+- 🎓 Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
+- 📫 Don't be shy, I'd enjoy to talk: e-mail: **diego.bravo@hec.ca**
+- 📁 LinkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
