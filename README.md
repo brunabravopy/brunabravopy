@@ -23,8 +23,8 @@
 - 🔭 I’ve worked with **linear programming, metaheuristics, location, scheduling, and routing problems.**
 - 🌱 I’m currently learning scalable data pipelines and model deployment.
 - 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
-- 🎓 Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
-- 📫 e-mail: diego.bravo@hec.ca 
+- 🎓 Of course, I'm also happy to contribute to educational fields and exploring new horizons.
+- 📫 diego.bravo@hec.ca 
 
 <!-- Connect -->
 <div id="user-content-toc">
