@@ -46,10 +46,11 @@
 <tr border="none">
 <td width="50%" align="center">
 -->
-  <!-- Change username= below if your GitHub handle is different -->
+<!--
+  <!-- Change username= below if your GitHub handle is different -
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunabravopy&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brunabravopy&theme=dark&hide_border=false" />
+  <img title=" Get streak stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brunabravopy&theme=dark&hide_border=false" />
 
 </td>
 
@@ -61,23 +62,25 @@
 </tr>
 </table>
 
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
     <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=brunabravopy&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
   </a>
 </div>
-<!--- trophy (end) -->
+<!--- trophy (end) 
 </p>
-<!--- stats & Trophy (end) -->
+<!--- stats & Trophy (end)
 
-<!--h2 without bottom border-->
+<!--h2 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
+ --> 
+ -->
+ -->
 <!-- tech stack icons (edit freely) -->
 <p align="center">
   <a href="https://skillicons.dev">
