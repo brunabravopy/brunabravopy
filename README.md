@@ -53,28 +53,29 @@
   </a>
 </p>
 
+<!-- Technical Skills -->
 <h3>Programming & Data</h3>
 <ul>
-  <li>Python, R, MATLAB, SQL</li>
+  <li>Python, R, SQL</li>
   <li>NumPy, Pandas, scikit-learn</li>
-  <li>PyTorch, TensorFlow, HuggingFace Transformers</li>
+  <li>PyTorch, TensorFlow, Gurobi, CPLEX </li>
 </ul>
 
-<h3>Machine Learning & Statistics</h3>
+<h3>Optimization, Machine Learning & Statistics</h3>
 <ul>
-  <li>Supervised &amp; Unsupervised Learning</li>
+  <li>Supervised, Unsupervised Learning &amp; Reinforcement Learning</li>
+  <li>Linear Programming, Cuadratic Programming, Mixed Integer Programming</li>
   <li>Generalized Linear Models (GLMs)</li>
-  <li>Mixed-Effects Models</li>
+  <li>Linear Regression, Logistic Regression</li>
   <li>Model Evaluation &amp; Diagnostics</li>
-  <li>Knowledge Distillation, Efficient ML</li>
 </ul>
 
 <h3>Tools &amp; Workflow</h3>
 <ul>
   <li>Git &amp; GitHub</li>
-  <li>Linux, Conda</li>
-  <li>Jupyter, Google Colab (GPU: T4 / L4 / A100)</li>
-  <li>LaTeX (NeurIPS-style academic reports)</li>
+  <li>Linux(Ubuntu), Anaconda</li>
+  <li>Spyder, VSCode, Jupyter, Google Colab </li>
+  <li>LaTeX(Overleaf)</li>
 </ul>
 
 <!-- Experienced Projects -->
