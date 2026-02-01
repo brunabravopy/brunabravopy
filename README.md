@@ -74,9 +74,9 @@
 <h3>Tools &amp; Workflow</h3>
 <ul>
   <li>Git &amp; GitHub</li>
-  <li>Linux(Ubuntu), Anaconda</li>
+  <li>Linux (Ubuntu), Anaconda</li>
   <li>Spyder, VSCode, Jupyter, Google Colab </li>
-  <li>LaTeX(Overleaf)</li>
+  <li>LaTeX (Overleaf)</li>
 </ul>
 
 <!-- Experienced Projects -->
