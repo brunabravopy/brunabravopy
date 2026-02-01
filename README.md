@@ -5,7 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Hi, How could I help you? 👋</h1></summary>
+    <summary><h1 style="display: inline-block"> Hello, How could I help you? 👋</h1></summary>
+    <summary><h1 style="display: inline-block"> Operations Research, Heuristic Algorithms, Machine Learning Tools </h1></summary>
   </ul>
 </div>
 
@@ -13,7 +14,6 @@
 <p align="left">
   M.Sc. Data Science and Business Analytics – HEC Montréal<br/>
   B.Sc. Industrial Engineering – UCN Chile<br/>
-  Operations Research, Heuristic Algorithms, Machine Learning Tools
 </p>
 
 
