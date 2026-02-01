@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Hello, How Could I help you? 👨‍💻</h1></summary>
+    <summary><h1 style="display: inline-block"> Hello, how could I help you? 👨‍💻</h1></summary>
   </ul>
 </div>
 
@@ -34,18 +34,18 @@
 <!--Intro start-->
 - 🔭 I’ve worked with **linear programming, metaheuristics, location, scheduling, and routing problems, Python/Gurobi**
 - 🌱 I’m currently learning scalable data pipelines and model deployment.
-- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved in its operations.
+- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
 - 🎓 Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
 - 📫 Don't be shy, I'd enjoy to talk: e-mail: **diego.bravo@hec.ca**
 - 📁 LinkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) 
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-
+-->
   <!-- Change username= below if your GitHub handle is different -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunabravopy&theme=dark&show_icons=true&count_private=true" />
   <br></br>
