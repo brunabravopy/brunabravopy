@@ -11,7 +11,7 @@
 
 <!-- tagline -->
 <p align="left">
-  ♦️ My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics
+  📏📐 My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics
 </p>
 
 <!-- tagline -->
