@@ -24,17 +24,16 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’ve worked with **linear programming, metaheuristics, location, scheduling, and routing problems, Python/Gurobi**
+- 🔭 I’ve worked with **linear programming, metaheuristics, location, scheduling, and routing problems.**
 - 🌱 I’m currently learning scalable data pipelines and model deployment.
 - 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
 - 🎓 Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
-- 📫 Don't be shy, I'd enjoy to talk: 
 <!--Intro end-->
 
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block"> 📫 Don't be shy, I'd enjoy to talk 🤝</h2></summary>
   </ul>
 </div>
 
