@@ -41,8 +41,15 @@
 </p>
 
 <!-- tech stack icons -->
+<!-- Connect -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 🖥️ Technical Domains </h2></summary>
+  </ul>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,postgres,mysql,azure,aws,docker,linux,vscode,powershell,sklearn,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,numpy,pandas,gurobi,r,java,javascript,sklearn,postgres,mysql,azure,linux,vscode,powershell,powerbi&perline=14" />
   </a>
 </p>
