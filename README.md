@@ -53,8 +53,4 @@
     <img src="https://skillicons.dev/icons?i=git,github,py,r,java,js,sklearn,postgres,mysql,azure,linux,vscode,powershell&perline=14" />
   </a>
 </p>
-<!-- Core tools (SkillIcons) -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,azure,linux,vscode,git,github&perline=14" />
-</p>
 
