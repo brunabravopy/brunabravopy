@@ -41,36 +41,11 @@
 </p>
 
 <!-- tech stack icons -->
-<!-- Connect -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block"> 🖥️ Technical Domains </h2></summary>
   </ul>
 </div>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,r,java,js,sklearn,postgres,mysql,azure,linux,vscode,powershell&perline=14" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,postgres,sqlite,azure,linux,bash,git,github,vscode,latex,matlab&perline=14" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,kubernetes,githubactions,terraform,nginx,redis,postgres,azure,linux&perline=14" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,postgres,azure,linux,vscode&perline=14" />
-  </a>
-</p>
-
 
 <p align="left">
   <a href="https://skillicons.dev">
