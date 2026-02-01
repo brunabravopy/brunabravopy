@@ -56,18 +56,19 @@
 <!-- Technical Skills -->
 <h3>Programming & Data</h3>
 <ul>
-  <li>Python, R, SQL</li>
+  <li>Python, R, SQL, Java</li>
   <li>NumPy, Pandas, scikit-learn</li>
   <li>PyTorch, TensorFlow, Gurobi, CPLEX </li>
 </ul>
 
 <h3>Optimization, Machine Learning & Statistics</h3>
 <ul>
-  <li>Supervised, Unsupervised Learning &amp; Reinforcement Learning</li>
-  <li>Linear Programming, Cuadratic Programming, Mixed Integer Programming</li>
-  <li>Generalized Linear Models (GLMs)</li>
+  <li>Supervised, Unsupervised Learning, Reinforcement Learning</li>
+  <li>Linear Programming, Cuadratic Programming, Mixed Integer Programming(MIP)</li>
+  <li>Metaheuristics, Variable Neighborhood Search(VNS)</li>
+  <li>Generalized Linear Models(GLMs)</li>
   <li>Linear Regression, Logistic Regression</li>
-  <li>Model Evaluation &amp; Diagnostics</li>
+  <li>Model Performance Evaluation, Debugging</li>
 </ul>
 
 <h3>Tools &amp; Workflow</h3>
