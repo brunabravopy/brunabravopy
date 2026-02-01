@@ -71,3 +71,12 @@
   </a>
 </p>
 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,java,js,git,github,vscode,powershell,linux,bash,docker,githubactions,postgres,mysql,sqlite,azure,anaconda,sklearn,tensorflow,latex&perline=14" />
+  </a>
+</p>
+
+
+
