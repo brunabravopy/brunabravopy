@@ -60,14 +60,10 @@
   </ul>
 </div>
 
-<h2>👾 Experienced Projects</h2>
-
 <p align="left">
   🗂️ <b>PLACEHOLDER Project Title</b><br/>
-  <i>tool_1 · tool_2 · tool_3 · tool_4</i><br/>
-  Distilled FinBERT → ALBERT using Knowledge Distillation (KD) and Patient KD.<br/>
-  Achieved 0.9626 Macro-F1 with 10× parameter reduction.<br/>
-  Evaluated KL divergence and inference latency for deployment readiness.<br/>
+  <i>tool_1, tool_2, tool_3, tool_4</i><br/>
+  Description. <br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
 
@@ -75,9 +71,8 @@
 
 <p align="left">
   🗂️ <b>BIXI Montréal Analytics</b><br/>
-  <i>GLMs · Mixed Models · Statistical Modelling</i><br/>
-  Modeled trip duration, rush-hour odds, and station-level effects.<br/>
-  Combined EDA + inference + interpretability for actionable insights.<br/>
+  <i>GLMs, Regression Models · Statistical Modelling</i><br/>
+  Modeled trip duration, and station-level effects.<br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
 
