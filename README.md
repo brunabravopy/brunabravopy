@@ -62,7 +62,7 @@
 
 <p align="left">
   🗂️ <b>PLACEHOLDER Project Title</b><br/>
-  <i>tool_1, tool_2, tool_3, tool_4</i><br/>
+  <i>tool_1, tool_2, tool_3</i><br/>
   Description. <br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
@@ -71,7 +71,7 @@
 
 <p align="left">
   🗂️ <b>BIXI Montréal Analytics</b><br/>
-  <i>GLMs, Regression Models · Statistical Modelling</i><br/>
+  <i>GLMs, Regression Models, Statistical Modelling</i><br/>
   Modeled trip duration, and station-level effects.<br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
