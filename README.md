@@ -5,10 +5,18 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Hello, How could I help you? 👋</h1></summary>
-    <summary><h1 style="display: inline-block"> Operations Research, Heuristic Algorithms, Machine Learning Tools </h1></summary>
+    <summary><h1 style="display: inline-block"> Hello, How Could I help you? 👋</h1></summary>
   </ul>
 </div>
+
+    <summary><h1 style="display: inline-block"> Operations Research, Heuristic Algorithms, Machine Learning Tools </h1></summary>
+<!-- tagline -->
+<p align="left">
+  <strong>
+    My favorite tools are mathematical programming, heuristic algorithms, machine learning, business statistical analytics
+  </strong>
+</p>
+
 
 <!-- tagline -->
 <p align="left">
