@@ -53,3 +53,9 @@
     <img src="https://skillicons.dev/icons?i=git,github,py,r,java,js,sklearn,postgres,mysql,azure,linux,vscode,powershell&perline=14" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,postgres,sqlite,azure,linux,bash,git,github,vscode,latex,matlab&perline=14" />
+  </a>
+</p>
