@@ -11,8 +11,8 @@
 
 <!-- tagline -->
 <p align="center">
-  Data Scientist (MSc DSBA @ HEC Montréal) • Industrial Engineer • Operations Research & Optimization<br/>
-  Mining / Energy / Logistics analytics • Python • SQL • Azure
+  M.Sc. Data Science - HEC Montréal | B.Sc. Industrial Engineering - UCN Chile<br/>
+  Operations Research, Heuristic Algorithms, Machine Learning Tools | Mining Logistics Analytics | Python, NumPy, Gurobi, SQL, R, Java, Azure 
 </p>
 
 <!--- snake -->
