@@ -28,10 +28,26 @@
 - 🌱 I’m currently learning scalable data pipelines and model deployment.
 - 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
 - 🎓 Of course, I'm also happy to contribute to academia and discuss exploring new horizons.
-- 📫 Don't be shy, I'd enjoy to talk: e-mail: **diego.bravo@hec.ca**
-- 📁 LinkedIn: **https://www.linkedin.com/in/diego-bravo-00604b167/**
+- 📫 Don't be shy, I'd enjoy to talk: 
 <!--Intro end-->
 
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/diego-bravo-00604b167/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:diego.bravo@hec.ca" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" />
+  </a>
 <!-- tech stack icons (edit freely) -->
 <p align="center">
   <a href="https://skillicons.dev">
