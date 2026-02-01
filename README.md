@@ -58,18 +58,3 @@
   <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,azure,linux,vscode,git,github&perline=14" />
 </p>
 
-<!-- Python stack (badges con logos) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gurobi-Optimization-555555?style=flat" />
-</p>
-
-<!-- Office suite / BI (badges con logos) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-</p>
-
