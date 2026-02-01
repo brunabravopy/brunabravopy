@@ -5,7 +5,7 @@
 </div>
 
 <p align="left">
-  🖍️📐 My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics.
+  🖍️📐 My fav tools are math programming, algorithm design, machine learning, business statistical analytics.
 </p>
 
 <p align="left">
