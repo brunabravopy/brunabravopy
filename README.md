@@ -12,7 +12,7 @@
 <!-- tagline -->
 <p align="left">
   <strong>
-    My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics
+    ♦️ My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics
   </strong>
 </p>
 
