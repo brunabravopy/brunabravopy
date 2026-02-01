@@ -95,7 +95,7 @@
 
 <p align="left">
   🗂️ <b>BIXI Montréal Analytics</b><br/>
-  <i>GLMs, Regression Models, Statistical Modelling</i><br/>
+  <i>GLMs, Linear Regression, Statistical Modelling</i><br/>
   Modeled trip duration, and station-level effects.<br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
