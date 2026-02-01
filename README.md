@@ -48,9 +48,8 @@
   </ul>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,r,java,js,sklearn,postgres,mysql,azure,linux,vscode,powershell&perline=14" />
   </a>
 </p>
-
