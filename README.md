@@ -77,9 +77,6 @@
   <li>LaTeX (NeurIPS-style academic reports)</li>
 </ul>
 
-
-
-
 <!-- Experienced Projects -->
 <div id="user-content-toc">
   <ul align="center">
