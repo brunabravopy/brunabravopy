@@ -11,8 +11,9 @@
 
 <!-- tagline -->
 <p align="center">
-  M.Sc. Data Science - HEC Montréal | B.Sc. Industrial Engineering - UCN Chile<br/>
-  Operations Research, Heuristic Algorithms, Machine Learning Tools | Mining Logistics Analytics | Python, NumPy, Gurobi, SQL, R, Java, Azure 
+  M.Sc. Data Science - HEC Montréal<br/>
+  B.Sc. Industrial Engineering - UCN Chile<br/>
+  Operations Research, Heuristic Algorithms, Machine Learning Tools
 </p>
 
 <!--- snake -->
