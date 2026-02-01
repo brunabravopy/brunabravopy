@@ -87,7 +87,7 @@
 </div>
 
 <p align="left">
-  🗂️ <b>PLACEHOLDER Project Title</b><br/>
+  🗂️ <b>Project Title</b><br/>
   <i>tool_1, tool_2, tool_3</i><br/>
   Description. <br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
