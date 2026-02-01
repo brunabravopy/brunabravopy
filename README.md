@@ -9,7 +9,6 @@
   </ul>
 </div>
 
-    <summary><h1 style="display: inline-block"> Operations Research, Heuristic Algorithms, Machine Learning Tools </h1></summary>
 <!-- tagline -->
 <p align="left">
   <strong>
