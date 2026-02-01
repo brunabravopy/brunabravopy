@@ -53,6 +53,33 @@
   </a>
 </p>
 
+<h3>Programming & Data</h3>
+<ul>
+  <li>Python, R, MATLAB, SQL</li>
+  <li>NumPy, Pandas, scikit-learn</li>
+  <li>PyTorch, TensorFlow, HuggingFace Transformers</li>
+</ul>
+
+<h3>Machine Learning & Statistics</h3>
+<ul>
+  <li>Supervised &amp; Unsupervised Learning</li>
+  <li>Generalized Linear Models (GLMs)</li>
+  <li>Mixed-Effects Models</li>
+  <li>Model Evaluation &amp; Diagnostics</li>
+  <li>Knowledge Distillation, Efficient ML</li>
+</ul>
+
+<h3>Tools &amp; Workflow</h3>
+<ul>
+  <li>Git &amp; GitHub</li>
+  <li>Linux, Conda</li>
+  <li>Jupyter, Google Colab (GPU: T4 / L4 / A100)</li>
+  <li>LaTeX (NeurIPS-style academic reports)</li>
+</ul>
+
+
+
+
 <!-- Experienced Projects -->
 <div id="user-content-toc">
   <ul align="center">
@@ -66,7 +93,6 @@
   Description. <br/>
   🔗 <a href="https://github.com/your_repo">link github</a>
 </p>
-
 <br/>
 
 <p align="left">
