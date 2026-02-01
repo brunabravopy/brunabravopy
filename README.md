@@ -10,11 +10,12 @@
 </div>
 
 <!-- tagline -->
-<p align="center">
-  M.Sc. Data Science - HEC Montréal<br/>
-  B.Sc. Industrial Engineering - UCN Chile<br/>
+<p align="left">
+  M.Sc. Data Science – HEC Montréal<br/>
+  B.Sc. Industrial Engineering – UCN Chile<br/>
   Operations Research, Heuristic Algorithms, Machine Learning Tools
 </p>
+
 
 <!--- snake -->
 <div align="center">
