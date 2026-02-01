@@ -52,3 +52,28 @@
     <img src="https://skillicons.dev/icons?i=py,r,java,js,git,github,vscode,powershell,linux,bash,docker,githubactions,postgres,mysql,sqlite,azure,anaconda,sklearn,tensorflow,latex&perline=14" />
   </a>
 </p>
+
+<!-- Experienced Projects -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 👾 Experienced Projects </h2></summary>
+  </ul>
+</div>
+
+Featured Projects
+
+🔹 Efficient Financial Sentiment Modeling via Knowledge Distillation
+PyTorch · HuggingFace · NLP · Model Compression
+
+    Distilled FinBERT → ALBERT using Knowledge Distillation (KD) and Patient KD
+    Achieved 0.9626 Macro-F1 with 10× parameter reduction
+    Evaluated KL divergence and inference latency for deployment readiness
+    🔗 https://github.com/hdangvu/finbert-knowledge-distillation
+
+🔹 BIXI Montréal Trip Modeling & Demand Analysis
+GLMs · Mixed Models · Applied Statistics
+
+    Modeled trip duration, rush-hour odds, and station-level effects
+    Combined EDA + inference + interpretability for actionable insights
+    🔗 https://github.com/hdangvu/bixi-trip-behavior-analysis.git
+
