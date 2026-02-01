@@ -11,7 +11,7 @@
 
 <!-- tagline -->
 <p align="left">
-  🖍️📐 My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics
+  🖍️📐 My fav tools are math programming, heuristic algorithms, machine learning, business statistical analytics.
 </p>
 
 <!-- tagline -->
@@ -20,11 +20,11 @@
   B.Sc. Industrial Engineering – UCN Chile<br/>
 </p>
 
-
-<!--- snake -->
+<!--
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
+-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
