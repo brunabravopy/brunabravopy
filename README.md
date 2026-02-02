@@ -20,10 +20,10 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’ve worked with linear programming, location, scheduling and routing problems. Coding heuristics/decomposition algortihms.
-- 🌱 I’m currently learning scalable data pipelines and model deployment.
-- 💬 My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
-- 🎓 Of course, I'm also happy to contribute to educational fields and exploring new horizons.
+- 🖍️ I’ve worked with linear programming, location, scheduling and routing problems. Coding heuristics/decomposition algortihms.
+- 🖍️ I’m currently learning scalable data pipelines and model deployment.
+- 🖍️ My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
+- 🖍️ Of course, I'm also happy to contribute to educational fields and exploring new horizons.
 - 📫 diego.bravo@hec.ca 
 
 <!-- Connect -->
