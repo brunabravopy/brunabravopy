@@ -24,10 +24,9 @@
 - 🖍️ I’m currently learning scalable data pipelines and model deployment.
 - 🖍️ My area of ​​expertise is the business and analytics of mining, as well as related industries involved.
 - 🖍️ Of course, I'm also happy to contribute to educational fields and exploring new horizons.
-- 🖍️ <a href="https://brunabravopy.github.io/" target="_blank" style="text-decoration: underline;"> Download CV </a>
+- 🖍️ <a href="https://brunabravopy.github.io/" target="_blank" style="text-decoration: underline;"> Download Detailed CV here </a>
 - 📫 diego.bravo@hec.ca
 
-  hagamos aqui en html, un boton para "Download CV" con este link https://brunabravopy.github.io/
 
   
 <!-- Connect -->
